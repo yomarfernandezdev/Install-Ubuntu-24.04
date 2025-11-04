@@ -1,7 +1,7 @@
 
 <a href="./requisitos.md">atrás</a> - Paso 1: Crear el Medio de Instalación y Arrancar - <a href="./paso_2.md">siguiente</a>
 
-1. ## Descarga de Rufus
+### Descarga de Rufus
 
 **Rufus** es una utilidad gratuita y de código abierto para Windows que te ayuda a formatear y crear medios USB de arranque.
 
@@ -11,6 +11,7 @@
    
 ## Creación del USB de Arranque con Rufus
 Asegúrate de tener la **imagen ISO de Ubuntu Server 24.04 LTS** descargada y una **unidad USB** (mínimo 8 GB, ten en cuenta que **todos los datos que contenga serán eliminados**).
+
    ### 1. Preparación
 
   1.  Conecta tu **unidad USB** a tu computadora.
@@ -51,5 +52,6 @@ Una vez que Rufus esté abierto, sigue los siguientes pasos para configurar las 
 Conecta la unidad USB al servidor. Reinicia el servidor e ingresa al menú de arranque (generalmente presionando `F2`, `F10`, `F12` o `Supr`) para seleccionar la unidad USB como dispositivo de arranque.
 ### 6.  Selecciona el Instalador:
 En el menú de inicio, selecciona la opción **"Install Ubuntu Server"**.
+
 
 
