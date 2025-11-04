@@ -47,6 +47,9 @@ Una vez que Rufus esté abierto, sigue los siguientes pasos para configurar las 
   2.  Haz clic en el botón **CERRAR**.
   3.  Tu **USB de Arranque de Ubuntu Server 24.04** está listo para usarse. Puedes extraer el USB de forma segura.
 
-### 5.  **Arranca desde el USB:** Conecta la unidad USB al servidor. Reinicia el servidor e ingresa al menú de arranque (generalmente presionando `F2`, `F10`, `F12` o `Supr`) para seleccionar la unidad USB como dispositivo de arranque.
-### 6.  **Selecciona el Instalador:** En el menú de inicio, selecciona la opción **"Install Ubuntu Server"**.
+### 5.  Arranca desde el USB:
+Conecta la unidad USB al servidor. Reinicia el servidor e ingresa al menú de arranque (generalmente presionando `F2`, `F10`, `F12` o `Supr`) para seleccionar la unidad USB como dispositivo de arranque.
+### 6.  Selecciona el Instalador:
+En el menú de inicio, selecciona la opción **"Install Ubuntu Server"**.
+
 
